@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SnooK1/react-web-first.git/static/css/main.de009d88.css",
+    "main.js": "/SnooK1/react-web-first.git/static/js/main.f8f3fb59.js",
+    "static/js/787.92141782.chunk.js": "/SnooK1/react-web-first.git/static/js/787.92141782.chunk.js",
+    "static/media/img-oficina.webp": "/SnooK1/react-web-first.git/static/media/img-oficina.4f054294140366eaf5bb.webp",
+    "index.html": "/SnooK1/react-web-first.git/index.html",
+    "main.de009d88.css.map": "/SnooK1/react-web-first.git/static/css/main.de009d88.css.map",
+    "main.f8f3fb59.js.map": "/SnooK1/react-web-first.git/static/js/main.f8f3fb59.js.map",
+    "787.92141782.chunk.js.map": "/SnooK1/react-web-first.git/static/js/787.92141782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de009d88.css",
+    "static/js/main.f8f3fb59.js"
+  ]
+}
